@@ -1,0 +1,15 @@
+D:\Programs\Asm_2_7400\Asm_2_7400\bin\Debug\Asm_2_7400.exe.config
+D:\Programs\Asm_2_7400\Asm_2_7400\bin\Debug\Asm_2_7400.exe
+D:\Programs\Asm_2_7400\Asm_2_7400\bin\Debug\Asm_2_7400.pdb
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.csproj.AssemblyReference.cache
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.LoginForm.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.Form_Select.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.Form_Manage_book.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.Form_book_loan.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.Form_manage_staff.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.Form_borrowing.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.Properties.Resources.resources
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.csproj.GenerateResource.cache
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.csproj.CoreCompileInputs.cache
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.exe
+D:\Programs\Asm_2_7400\Asm_2_7400\obj\Debug\Asm_2_7400.pdb
